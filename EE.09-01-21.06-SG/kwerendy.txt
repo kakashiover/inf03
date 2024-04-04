@@ -1,0 +1,2 @@
+kw1
+SELECT imie, nazwisko, opis, zdjecie FROM osoby WHERE Hobby_id = 1 or Hobby_id = 2 or Hobby_id = 6 

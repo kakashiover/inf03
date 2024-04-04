@@ -1,0 +1,2 @@
+kw1
+SELECT id, nr_rejsu, czas, kierunek, status_lotu FROM odloty czas DESC

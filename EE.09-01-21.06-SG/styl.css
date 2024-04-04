@@ -1,0 +1,47 @@
+body {
+	font-family: Georgia;
+}
+#banner {
+	background-color: #005B4F;
+	color: white;
+	text-align: center;
+	font-size: 50%;
+	height: 20px;
+}
+section#main {
+	background-color: #E1E2E1;
+	height: 400px;
+	padding: 20px;
+	overflow: scroll;
+}
+div.blok_foto {
+	width: 20%;
+	float: left;
+}
+div.opis {
+	float: left;
+}
+section.footer {
+	background-color: #005B4F;
+	color: white;
+	text-align: center;
+	width: 50%;
+	height: 20px;
+	float: left;
+}
+img {
+	padding: 20px;
+	border-radius: 100%;
+}
+h2 {
+	text-align: center;
+	background-color: #00897B;
+}
+a {
+	color: white;
+}
+div.person {
+	width: 100%;
+	clear: both;
+	border-bottom: 2px solid gray;
+}
